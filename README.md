@@ -6,7 +6,8 @@ saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 4 saya. Jika masih 
 - Langkah 1:
 
   Di folder proyek CodeIgniter, jalankan perintah di bawah ini untuk menginstal paket node dan membuat tailwind.config.js kosong
-  #Kode:
+
+  ##Kode:
   npm install -D tailwindcss
   npx tailwindcss init
 
