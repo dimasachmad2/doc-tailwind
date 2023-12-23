@@ -1,9 +1,10 @@
-### doc-tailwind
+### Install Tailwind in CodeIgniter 3 
 
 Hai,
 saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 4 saya. Jika masih ada yang mencarinya, saya ikuti langkah-langkah di bawah ini:
 
 - Langkah 1:
+
   Di folder proyek CodeIgniter, jalankan perintah di bawah ini untuk menginstal paket node dan membuat tailwind.config.js kosong
   Kode:
   npm install -D tailwindcss
