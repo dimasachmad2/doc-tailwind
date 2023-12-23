@@ -7,15 +7,16 @@ saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 4 saya. Jika masih 
 
   Di folder proyek CodeIgniter, jalankan perintah di bawah ini untuk menginstal paket node dan membuat tailwind.config.js kosong
 
-  Kode:
   ```bash
   npm install -D tailwindcss
   npx tailwindcss init
   ```
   
 - Langkah 2:
+
   Perbarui  tailwind.config.js seperti di bawah ini:
-  Kode:
+
+  ```bash
   /** @type {import('tailwindcss').Config} */
   module.exports = {
     content: ["./app/Views/**/*.php"],
@@ -24,7 +25,8 @@ saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 4 saya. Jika masih 
     },
     plugins: [],
   }
-
+  ```
+  
 - Langkah 3:
   Buat input.css dengan kode di bawah ini. Anda dapat membuatnya di mana saja. Saya buat di app > Views > css > input.css
   Kode:
