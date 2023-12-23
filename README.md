@@ -1,4 +1,4 @@
-# doc-tailwind
+### doc-tailwind
 
 Hai,
 saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 4 saya. Jika masih ada yang mencarinya, saya ikuti langkah-langkah di bawah ini:
