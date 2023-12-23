@@ -49,4 +49,4 @@ saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 4 saya. Jika masih 
  
   Sekarang cukup sertakan file css (milik saya style.css) di file php Anda. Dengan perintah Langkah 4, ini akan tetap berjalan, jadi jika Anda menambahkan kelas css tailwind apa pun di file php, maka secara otomatis akan menambahkannya ke file css keluaran.
 
-###Semoga ini membantu!
+### Tahnkyou...
