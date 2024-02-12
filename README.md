@@ -19,7 +19,7 @@ saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 3 saya. Jika masih 
   ```bash
   /** @type {import('tailwindcss').Config} */
   module.exports = {
-    content: ["./application/views/**/*.php"], //tempat views / tampilan web
+    content: ["./application/views/**/*.php"], //tempat views atau tampilan web
     theme: {
       extend: {},
     },
@@ -29,7 +29,7 @@ saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 3 saya. Jika masih 
   
 - Langkah 3:
 
-  Buat input.css dengan kode di bawah ini. Anda dapat membuatnya di mana saja. Saya buat di app > Views > css > input.css
+  Buat input.css dengan kode di bawah ini. Anda dapat membuatnya di mana saja. Saya buat di application > assets > css > input.css
 
   ```bash
   @tailwind base;
