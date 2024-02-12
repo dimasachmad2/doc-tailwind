@@ -19,7 +19,7 @@ saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 3 saya. Jika masih 
   ```bash
   /** @type {import('tailwindcss').Config} */
   module.exports = {
-    content: ["./app/Views/**/*.php"],
+    content: ["./application/views/**/*.php"], //tempat views / tampilan web
     theme: {
       extend: {},
     },
