@@ -42,7 +42,7 @@ saya berhasil menggunakan Tailwind CSS di proyek CodeIgniter 3 saya. Jika masih 
   Pada terminal di folder proyek CodeIgniter, jalankan perintah di bawah ini. Jika Anda menggunakan jalur yang berbeda untuk input.css dan output css (milik saya style.css) maka ubah jalur yang sesuai.
 
   ```bash
-  npx tailwindcss -i ./app/Views/css/input.css -o ./public/assets/css/styles.css --watch
+  npx tailwindcss -i ./assets/css/input.css -o ./assets/css/styles.css --watch        
   ```
   
 - Langkah 5:
